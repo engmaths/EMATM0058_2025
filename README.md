@@ -10,12 +10,12 @@ All talks may be given in person at the timetabled venue (see below) or online v
 
 ## Research talk bookings
 
-- Thu 25-Sep 1400:   1430:
+- Thu 25-Sep 1400: Marcela Munera (online)  1430: Bahadir Kocer
 - Mon 29-Sep 1100:   1130:
 - Thu 02-Oct 1400:   1430:
 - Mon 06-Oct 1100:   1130:
 - Thu 09-Oct 1400:   1430:
-- Mon	13-Oct 1100:   1130:
+- Mon	13-Oct 1100: Ben Ward-Cherrier   1130: Efi Psomopoulou
 - Thu 16-Oct 1400:   1430:
 - Mon	20-Oct 1100:   1130:
 - Thu 23-Oct 1400:   1430:
@@ -24,7 +24,7 @@ All talks may be given in person at the timetabled venue (see below) or online v
 - Thu 06-Nov 1400:   1430:
 - Mon	10-Nov 1100:   1130:
 - Thu 13-Nov 1400:   1430:
-- Mon	17-Nov 1100:   1130:
+- Mon	17-Nov 1100:   1130: George Jenkinson
 - Thu 20-Nov 1400:   1430:
 - Mon	24-Nov 1100:   1130:
 - Thu 27-Nov 1400:   1430:
