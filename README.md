@@ -13,7 +13,7 @@ All talks may be given in person at the timetabled venue (see below) or online v
 - Thu 25-Sep 1400: Marcela Munera (online)  1430: Bahadir Kocer
 - Mon 29-Sep 1100:   1130:
 - Thu 02-Oct 1400: Paul O'Dowd  1430:
-- Mon 06-Oct 1100: Helmut Hauser  1130:
+- Mon 06-Oct 1100: Helmut Hauser  1130: Giacinto Barresi (online)
 - Thu 09-Oct 1400:   1430:
 - Mon	13-Oct 1100: Ben Ward-Cherrier   1130: Efi Psomopoulou
 - Thu 16-Oct 1400:   1430:
