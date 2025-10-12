@@ -18,7 +18,7 @@ All talks may be given in person at the timetabled venue (see below) or online v
 | Mon 06-Oct | **1100**: Helmut Hauser  |**1130**: Giacinto Barresi|
 | Thu 09-Oct | **1400**:   |**1430**: |
 | Mon	13-Oct | **1100**: Ben Ward-Cherrier   |**1130**: Efi Psomopoulou|
-| Thu 16-Oct | **1400**: Helen McGloin  |**1430**: |
+| Thu 16-Oct | **1400**: Helen McGloin (Online)  |**1430**: |
 | Mon	20-Oct | **1100**:   |**1130**: |
 | Thu 23-Oct | **1400**:   |**1430**: |
 | No talks in week beginning 27-Oct	
