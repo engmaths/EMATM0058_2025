@@ -24,7 +24,7 @@ All talks may be given in person at the timetabled venue (see below) or online v
 | No talks in week beginning 27-Oct	
 | Mon	03-Nov | **1100**: Antonia Tzemanaki  |**1130**:|
 | Thu 06-Nov | **1400**:   |**1430**: |
-| Mon	10-Nov | **1100**:   |**1130**: |
+| Mon	10-Nov | **1100**: Richard Suphapol Diteesawat  |**1130**: |
 | Thu 13-Nov | **1400**: Carlos Cifuentes (online) |**1430**: |
 | Mon	17-Nov | **1100**:   |**1130**: George Jenkinson|
 | Thu 20-Nov | **1400**:   |**1430**: |
