@@ -27,7 +27,7 @@ All talks may be given in person at the timetabled venue (see below) or online v
 | Mon	10-Nov | **1100**: Richard Suphapol Diteesawat  |**1130**: |
 | Thu 13-Nov | **1400**: Carlos Cifuentes (online) |**1430**: |
 | Mon	17-Nov | **1100**:   |**1130**: George Jenkinson|
-| Thu 20-Nov | **1400**: Lars Kunze  |**1430**: |
+| Thu 20-Nov | **1400**: Lars Kunze (online)  |**1430**: |
 | Mon	24-Nov | **1100**:   |**1130**: |
 | Thu 27-Nov | **1400**:   |**1430**: |
 | Mon	01-Dec | **1100**:   |**1130**: |
