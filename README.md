@@ -28,7 +28,7 @@ All talks may be given in person at the timetabled venue (see below) or online v
 | Thu 13-Nov | **1400**: Carlos Cifuentes (online) |**1430**: |
 | Mon	17-Nov | **1100**:   |**1130**: George Jenkinson|
 | Thu 20-Nov | **1400**: Lars Kunze (online)  |**1430**: |
-| Mon	24-Nov | **1100**:   |**1130**: |
+| Mon	24-Nov | **1100**: Sabine Hauert  |**1130**: |
 | Thu 27-Nov | **1400**:   |**1430**: |
 | Mon	01-Dec | **1100**:   |**1130**: |
 | Thu 04-Dec | **1400**:   |**1430**: |
