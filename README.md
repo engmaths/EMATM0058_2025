@@ -24,7 +24,7 @@ Email Arthur to book a slot.
 | Thu 15-Oct | **1300**:   | **1330**:  |
 | Mon 19-Oct | **0900**:  | **0930**:  |
 | Thu 22-Oct | **1300**:   | **1330**:  |
-| No talks in week beginning 27-Oct	
+| No talks in week beginning 26-Oct	
 | Mon 02-Nov | **0900**:  | **0930**:  |
 | Thu 05-Nov | **1300**:   | **1330**:  |
 | Mon 09-Nov | **0900**:  | **0930**:  |
