@@ -34,4 +34,4 @@ Email Arthur to book a slot.
 | Mon 23-Nov | **0900**:  | **0930**:  |
 | Thu 26-Nov | **1300**:   | **1330**:  |
 | Mon 30-Nov | **0900**:  | **0930**:  |
-| Thu 03-Dec | **1300**:   | **1330**:  |
+| Thu 03-Dec | **1300**: Sabine Hauert | **1330**:  |
